@@ -3,7 +3,6 @@ languageCode = 'en-gb'
 title = 'Xi Chen Lab @ SUSTech'
 theme = "hugo-theme-monochrome"
 enableRobotsTXT = true
-publishDir = "/Users/xichen/Documents/lab_website_build"
 
 [params]
   enable_toc = false
@@ -64,3 +63,7 @@ publishDir = "/Users/xichen/Documents/lab_website_build"
     name = "Join Us"
     url = "/joinus/"
     weight = 50
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
