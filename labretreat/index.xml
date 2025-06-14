@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work hard, play hard on Xi Chen Lab @ SUSTech</title>
+    <link>https://dbrg77.github.io/lab-website/labretreat/</link>
+    <description>Recent content in Work hard, play hard on Xi Chen Lab @ SUSTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://dbrg77.github.io/lab-website/labretreat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retreat 2024</title>
+      <link>https://dbrg77.github.io/lab-website/labretreat/retreat2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbrg77.github.io/lab-website/labretreat/retreat2024/</guid>
+      <description>Lab retreat 2024</description>
+    </item>
+    
+    <item>
+      <title>Retreat 2025</title>
+      <link>https://dbrg77.github.io/lab-website/labretreat/retreat2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbrg77.github.io/lab-website/labretreat/retreat2025/</guid>
+      <description>Lab retreat 2025</description>
+    </item>
+    
+  </channel>
+</rss>
