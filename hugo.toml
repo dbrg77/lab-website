@@ -1,8 +1,9 @@
-baseURL = 'https://xichenlab.com'
+baseURL = 'https://dbrg77.github.io/lab-website/'
 languageCode = 'en-gb'
 title = 'Xi Chen Lab @ SUSTech'
 theme = "hugo-theme-monochrome"
 enableRobotsTXT = true
+canonifyurls = true
 
 [params]
   enable_toc = false
