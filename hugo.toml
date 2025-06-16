@@ -5,7 +5,7 @@ title = 'Xi Chen Lab @ SUSTech'
 theme = "hugo-theme-monochrome"
 enableRobotsTXT = true
 canonifyurls = true
-publishDir = "/Users/xichen/Documents/lab_website_build"
+# publishDir = "/Users/xichen/Documents/lab_website_build"
 
 [params]
   enable_toc = false
