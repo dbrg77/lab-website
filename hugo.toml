@@ -5,12 +5,12 @@ title = 'Xi Chen Lab @ SUSTech'
 theme = "hugo-theme-monochrome"
 enableRobotsTXT = true
 canonifyurls = true
-# publishDir = "/Users/xichen/Documents/lab_website_build"
+publishDir = "/Users/xichen/Documents/lab_website_build"
 
 [params]
   enable_toc = false
   enable_math = true
-  footer = "Xi Chen Lab @ SUSTech, 2024"
+  footer = "Xi Chen Lab @ SUSTech, 2025"
 
 [menu]
   [[menu.navbar]]
